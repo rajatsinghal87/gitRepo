@@ -6,6 +6,8 @@ public class Main {
 
 		System.out.println("Hello World");
 		System.out.println("Java");
+		
+		System.out.println("12345");
 
 	}
 
